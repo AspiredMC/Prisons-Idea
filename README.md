@@ -10,20 +10,64 @@ This will contain a solid list of what needs to be done before Aspired prisons c
 - [ ] Custom Mines (normal blocks in a-z, but prestige mines will have Amaythst, Cobalt, Titanium, Hellstone, FrozenStone, Tungstone, Mythirail, Fungite)
 - [ ] Spawners
 - [ ] Ranks
-- [ ] Database
-- [ ] Sessions
-- [ ] Enchantments
-- [ ] Custom Tool Abilitys
-- [ ] Crates
-- [ ] Lootboxes
-- [ ] Bossess
+- [x] Database
+### Session System
+#### DataSession
+- This will contain all data about the player
+#### EnchantSession 
+- This will contain all data about a player + there enchantments
+#### TournamentSession
+- This will contain all data about a player + there tournaments
+### Enchantments
+#### Todo
+### Custom Tool Abilitys
+#### System info
+- This will contain for all Axes, pickaxes and shovels.
+- It will give a exp, level and prestige to all tools
+- and you can level up your tools by using them for the correct task
+- Level ups will give upgrades to your tool, allowing them to be better (since vanilla enchantments are overhalled)
+- At some levels, you can get custom abilitys
+#### Tool Skins
+- Tool skins are like masks, but for your tools, 
+- Each tool has its own custom skins it can have
+- But Skins abilitys may very
+### Crates
+#### Types
+- [ ] Simple 
+- [ ] Unique
+- [ ] Rare
+- [ ] Elite
+- [ ] Ultimate
+- [ ] Legendary
+- [ ] Heroic
+- [ ] Godly
+### Lootboxes 
+#### Types 
+- [ ] Monthly Lootboxes
+### Bosses
+#### Types
+##### Titans
+- [ ] Midas Titan
+- [ ] Goblin Lord
+- [ ] Mutant Tarantula 
+- [ ] Deformed Golem
+- [ ] Dragon Titan
+##### Bosses
+- [ ] Thunder Ranger
+- [ ] Cyborg
+- [ ] Deformed Fallen Angle
+- [ ] Lost Traveler
+- [ ] Flaming Angle
+- [ ] Reaper
+- [ ] Grand Warden
+- [ ] Rioter
 ### Store 
 #### Category 
 - [ ] Keys
 - [ ] Ranks
 - [ ] Rank upgrades
 - [ ] Lootboxes
-- [ ] Boss summers
+- [ ] Boss summoners
 ### Cells
 #### Todo at a later date
 ### Custom Armor
