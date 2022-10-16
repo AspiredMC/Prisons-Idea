@@ -2,16 +2,35 @@
 This will contain a solid list of what needs to be done before Aspired prisons can release and hopefully give some more insight to yall about what is gonna be there.
 ## Todo 
 
-- [ ] Vaults
-- [ ] Trades
-- [ ] World Protection
-- [ ] Tournaments (kills + block break + mob grinder)
-- [ ] Dungeon
-- [ ] Custom Mines (normal blocks in a-z, but prestige mines will have Amaythst, Cobalt, Titanium, Hellstone, FrozenStone, Tungstone, Mythirail, Fungite)
-- [ ] Spawners
-- [ ] Ranks
-- [x] Database
-### Session System
+### Vaults
+#### Todo 
+- [x] done
+### Trades
+#### Todo
+- [x] Done
+### World protection
+#### Todo
+- [ ] Code base
+- [ ] Set it up
+- [ ] Test it
+### Tournaments
+#### System info
+- [ ] Kills Tournament is a giant arena were pvpers go to get the top amount of kills with in a select time frame.
+- [ ] grinder tournament is a tournament were killing mobs will grant you points (from spawners) each level of spawner will give more or less points depending on how rare they are.
+- [ ] Mining Tournament is a tournament were the best miner wins, to gain points, mine
+### Dungeons
+#### System info
+- Dungeons will have 3 worlds it chance start too, each world being different and gives diff mobs and drops. some being better some being worse.
+### Custom Mines
+#### Todo 
+- [ ] Make the custom block textures
+- [ ] Register the custom blocks
+- [ ] Make the mine reset system
+- [ ] Setup with the mines
+### Database
+#### System info
+- [x] base SQL Sytem
+- [ ] All Functions finished### Session System
 #### DataSession
 - This will contain all data about the player
 #### EnchantSession 
