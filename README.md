@@ -17,24 +17,101 @@ This will contain a solid list of what needs to be done before Aspired prisons c
 - [ ] Crates
 - [ ] Lootboxes
 - [ ] Bossess
-- [ ] Store Intergration
-- [ ] Cells
-- [ ] Custom Armor
-- [ ] Event Loggers
-- [ ] Masks
-- [ ] Economy
-- [ ] QOL Commands
-- [ ] Combat logger
-- [ ] Auctions
-- [ ] Gkits
-- [ ] Slotbot (but more realistic feel)
-- [ ] Custom Sets
-- [ ] Gangs
-- [ ] Multi version (current to 1.12 if possible farther)
-- [ ] Shops 
-- [ ] Outposts
-- [ ] Koth
-- [ ] Random Events (Invasiaons, Mine events, Boss Raids, Titan attacks, Dungeons)
+### Store 
+#### Category 
+- [ ] Keys
+- [ ] Ranks
+- [ ] Rank upgrades
+- [ ] Lootboxes
+- [ ] Boss summers
+### Cells
+#### Todo at a later date
+### Custom Armor
+#### Sets 
+- [ ] Warden
+- [ ] Riot
+- [ ] Cyber
+- [ ] Assassin
+- [ ] Reaper 
+- [ ] Prisoner 
+- [ ] Titan
+### Event Loggers
+#### Logs all things 
+- [ ] Loggers
+- (for staff related)
+### Masks
+#### Types
+- [ ] Mercury (Boosts your Prison sell prices)
+- [ ] Ceres (Have a chance to double your drops)
+- [ ] Apollo (Grants small amounts of healing)
+- [ ] Mars (Grants Random pvp abilitys)
+- [ ] Diana (Grants More EXP and a chance for 2x mob drops)
+- [ ] Vulcan (Deal more damage at close)
+- [ ] Vesta (Deal more damage at far)
+### Economy
+#### Types 
+- [ ] Money
+- [ ] Tokens
+- [ ] Gems
+### QOL Commands
+#### Types
+- To be done.
+### Comabt logger
+#### System info
+- [ ] Add the base system
+- [ ] Add Offline player entity
+- When the Offline player is killed, it drops the offline players inventory, they can be retagged if hit again, but if they get off timer or log back in. they are fine.
+### Auctions
+- [x] Already done
+### Gkits
+#### System info 
+- Gkits have levels, each level making them better
+#### Types
+- [ ] Icarus 
+- [ ] zeus 
+- [ ] Perseus
+- [ ] Cadmus
+- [ ] Pandion
+- [ ] Theseus
+- [ ] Heracles
+- [ ] Eleusis
+- [ ] Daedalus
+- [ ] Aeneas
+- [ ] Cecrops
+- [ ] Lycaon
+### Slot Bots
+#### To be done at a later date
+### Gangs
+#### To be done at a later date
+### Multi Version
+#### Versions
+- [ ] newest version =< 1.12
+### Shops
+#### Commands 
+- [ ] shop (normal shop items)
+- [ ] pshop (Prison shops (so mine stuff. special prison items))
+- [ ] market (a marketplace were you can create chest shops to sell and buy items from people)
+- [ ] tshop (token shop)
+- [ ] gshop (gem shop)
+### Outpost
+#### System info
+- [ ] Outposts will grant gang strength and value. 
+- [ ] Holding outposts for a amount of time will have a chance to give OP rewards
+### Koth
+#### System info
+- [ ] Koth will spawn every 120 minutes 
+- [ ] It will take 3 minutes to capture
+- [ ] Grants OP rewards
+### Random Events
+#### Events
+- [ ] Invasion (Spawns a ton of Aliens in Warzone that give good loot but are very hard to kill)
+- [ ] Meteor Shower (At pvp mine, Meteors will fall from the sky and players can mine)
+- [ ] Lucky (Buffs chances for Speical mine events, ce proc's, exp buffs)
+- [ ] Dungeon Legion (Buffs the strength of dungeon mobs (plus rewards))
+- [ ] Titan Attack (Titans fall from the sky at pvp mine and attack the miners there, kill them for cool rewards)
+- [ ] Dungeon multiplyer (Buffs the rewards from dungeons)
+- [ ] Mine Multiplyers (Buffs mining ces and rewards from mining)
+- [ ] Undead Rising (Summons a type of hordes around spawn, kill them to get cool rewards)
 ### Skills
 #### Commands
 - [ ] myskills (shows the users skills, abilitys and progress to the next level)
