@@ -7,12 +7,12 @@ This will contain a solid list of what needs to be done before Aspired prisons c
 - [x] done
 ### Trades
 #### Todo
-- [x] Done
+- [ ] Done
 ### World protection
 #### Todo
-- [ ] Code base
-- [ ] Set it up
-- [ ] Test it
+- [x] Code base
+- [x] Set it up
+- [x] Test it
 ### Tournaments
 #### System info
 - [ ] Kills Tournament is a giant arena were pvpers go to get the top amount of kills with in a select time frame.
@@ -23,16 +23,16 @@ This will contain a solid list of what needs to be done before Aspired prisons c
 - Dungeons will have 3 worlds it chance start too, each world being different and gives diff mobs and drops. some being better some being worse.
 ### Custom Mines
 #### Todo 
-- [ ] Make the custom block textures
-- [ ] Register the custom blocks
-- [ ] Make the mine reset system
+- [x] Make the custom block textures
+- [x] Register the custom blocks
+- [x] Make the mine reset system
 - [ ] Setup with the mines
 ### Database
 #### System info
 - [x] base SQL Sytem
-- [ ] All Functions finished### Session System
+- [x] All Functions finished### Session System
 #### DataSession
-- This will contain all data about the player
+- [x] This will contain all data about the player
 #### EnchantSession 
 - This will contain all data about a player + there enchantments
 #### TournamentSession
@@ -88,7 +88,7 @@ This will contain a solid list of what needs to be done before Aspired prisons c
 - [ ] Lootboxes
 - [ ] Boss summoners
 ### Cells
-#### Todo at a later date
+- [x] Done
 ### Custom Armor
 #### Sets 
 - [ ] Warden
@@ -113,9 +113,9 @@ This will contain a solid list of what needs to be done before Aspired prisons c
 - [ ] Vesta (Deal more damage at far)
 ### Economy
 #### Types 
-- [ ] Money
-- [ ] Tokens
-- [ ] Gems
+- [x] Money
+- [x] Tokens
+- [x] Gems
 ### QOL Commands
 #### Types
 - To be done.
@@ -125,7 +125,7 @@ This will contain a solid list of what needs to be done before Aspired prisons c
 - [ ] Add Offline player entity
 - When the Offline player is killed, it drops the offline players inventory, they can be retagged if hit again, but if they get off timer or log back in. they are fine.
 ### Auctions
-- [x] Already done
+- [ ] Already done
 ### Gkits
 #### System info 
 - Gkits have levels, each level making them better
@@ -151,7 +151,7 @@ This will contain a solid list of what needs to be done before Aspired prisons c
 - [ ] newest version =< 1.12
 ### Shops
 #### Commands 
-- [ ] shop (normal shop items)
+- [x] shop (normal shop items)
 - [ ] pshop (Prison shops (so mine stuff. special prison items))
 - [ ] market (a marketplace were you can create chest shops to sell and buy items from people)
 - [ ] tshop (token shop)
@@ -196,10 +196,10 @@ This will contain a solid list of what needs to be done before Aspired prisons c
 - This will log all events (mainly for staff) but also Special tournaments
 ### Prison Sytem 
 #### Commands
-- [ ] rankup
-- [ ] Prestige
-- [ ] rumax
-- [ ] nextru
+- [x] rankup
+- [x] Prestige
+- [x] rumax
+- [x] nextru
 #### System info
 - Rank up scales with prestige (the higher prestige you have the more it will cost)
 - Rank up Also requires a amount of blocks broken in the given mine (scales with prestige)
